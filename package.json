@@ -1,6 +1,6 @@
 {
   "name": "vee-validate-v3-vue3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue 3 compatible port of vee-validate v3",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -44,5 +44,5 @@
     "type": "git",
     "url": "https://github.com/yenniSuresh/vee-validate-v3-vue3"
   },
-  "homepage": "https://github.com/yenniSuresh/vee-validate-v3-vue3#readme",
+  "homepage": "https://github.com/yenniSuresh/vee-validate-v3-vue3#readme"
 }
