@@ -29,5 +29,20 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.28.2"
-  }
+  },
+  "keywords": [
+    "vee-validate",
+    "vee-validate v3",
+    "vee-validate vue 3",
+    "vue3",
+    "vue validation",
+    "form validation",
+    "vee-validate compatibility",
+    "vee-validate port"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yenniSuresh/vee-validate-v3-vue3"
+  },
+  "homepage": "https://github.com/yenniSuresh/vee-validate-v3-vue3#readme",
 }
